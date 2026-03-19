@@ -9,7 +9,7 @@
 
 <a href="https://github.com/iamYogeshMohan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile;Hi,+I%27m+Yogesh+Mohan;Passionate+Tech+Enthusiast;Data+Science+%26+ML;Full-Stack+Developer;Building+Data-Driven+Solutions" alt="Typing SVG" />
-</a>
+</a> <a href="https://iamyogeshmohan.netlify.app/" target="_blank"><img src="./portfolio_button.svg" alt="Portfolio" /></a>
 
 </div>
 
