@@ -24,7 +24,7 @@
 
 ## 🌌 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Animation" />
+<img align="right" width="350" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding Animation" />
 
 I’m a 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗧𝗲𝗰𝗵 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 specializing in 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲, 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, with a strong drive to create 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 that merge 𝗶𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀 with 𝗮 𝘀𝗲𝗮𝗺𝗹𝗲𝘀𝘀 𝘂𝘀𝗲𝗿 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀.
 
