@@ -49,35 +49,22 @@ Let’s connect and build something 𝗲𝘅𝘁𝗿𝗮𝗼𝗿𝗱𝗶𝗻𝗮
 ## ⚡ Core Skillset
 
 ### 🛠️ Programming & Analytics
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-00F0FF?style=for-the-badge&logoColor=black&color=000000"/> 
-<img src="https://img.shields.io/badge/Data%20Analytics-7B00FF?style=for-the-badge&logoColor=white&color=000000"/> 
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-00F0FF?style=for-the-badge&logoColor=black&color=000000"/> <img src="https://img.shields.io/badge/Data%20Analytics-7B00FF?style=for-the-badge&logoColor=white&color=000000"/>
 
 ### 📊 Data Visualization & BI Tools
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 ### 💻 Development & Design
-<img src="https://img.shields.io/badge/Full--Stack%20Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/UI/UX%20Design-00F0FF?style=for-the-badge&logoColor=white&color=000000"/>
-<img src="https://img.shields.io/badge/Flutterflow-000000?style=for-the-badge&logo=flutter&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full--Stack%20Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/UI/UX%20Design-00F0FF?style=for-the-badge&logoColor=white&color=000000"/> <img src="https://img.shields.io/badge/Flutterflow-000000?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 ### ⚙️ Automation & Workflow Tools
-<img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=openapi%20initiative&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=openapi%20initiative&logoColor=white"/>
 
 ### 🎨 Creative Tools
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 ### 🤖 AI Tools & Assistants
-<img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grok_AI-000000?style=for-the-badge&logo=x&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Grok_AI-000000?style=for-the-badge&logo=x&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 
 ---
 
