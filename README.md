@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://github.com/iamYogeshMohan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+👋;I'm+Yogesh+Mohan;AI+%26+Data+Science+Student;Full+Stack+Developer;Creative+Designer;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+👋;I'm+Yogesh+Mohan;Passionate+Tech+Enthusiast;Data+Science+%26+ML;Full-Stack+Developer;Building+Data-Driven+Solutions" alt="Typing SVG" />
 </a>
 
 </div>
@@ -120,7 +120,7 @@ Let’s connect and build something 𝗲𝘅𝘁𝗿𝗮𝗼𝗿𝗱𝗶𝗻𝗮
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamYogeshMohan&theme=synthwave&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamYogeshMohan&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
