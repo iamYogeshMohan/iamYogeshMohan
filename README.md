@@ -49,8 +49,7 @@ Let’s connect and build something 𝗲𝘅𝘁𝗿𝗮𝗼𝗿𝗱𝗶𝗻𝗮
 ## ⚡ Core Skillset
 
 ### 🛠️ Programming & Analytics
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-00F0FF?style=for-the-badge&logoColor=black&color=000000"/> 
 <img src="https://img.shields.io/badge/Data%20Analytics-7B00FF?style=for-the-badge&logoColor=white&color=000000"/> 
 
