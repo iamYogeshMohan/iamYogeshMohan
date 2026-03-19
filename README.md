@@ -24,45 +24,63 @@
 
 ## 🌌 About Me
 
-I'm a passionate student diving deep into the world of **Artificial Intelligence**, **Machine Learning**, and **Data Science**. My journey revolves around blending analytical thinking with **creative development** to build impactful, intelligent solutions.
+I’m a 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗧𝗲𝗰𝗵 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 specializing in 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲, 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, with a strong drive to create 𝗱𝗮𝘁𝗮-𝗱𝗿𝗶𝘃𝗲𝗻 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 that merge 𝗶𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝘁 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀 with 𝗮 𝘀𝗲𝗮𝗺𝗹𝗲𝘀𝘀 𝘂𝘀𝗲𝗿 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀.
 
-- 🔭 Currently exploring cutting-edge **AI/ML** solutions and **Neural Networks**.
-- 🌱 Constantly learning and expanding my skills in **Full Stack Frameworks** and **Data Engineering**.
-- 💡 Passionate about blending tech and design to craft seamless **user experiences**.
-- ⚡ **Fun fact**: I design just as much as I code! Quality UI/UX is my superpower.
+I have completed 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 from:
+
+🔹 **𝗚𝗹𝗼𝗯𝗮𝗹 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻** → Microsoft 𝗔𝘇𝘂𝗿𝗲 𝗔𝗹 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀
+🔹 **𝗖𝗼𝘂𝗿𝘀𝗲𝗿𝗮 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀** → Microsoft Power BI Data Analyst & Google Data Analytics
+🔹 **𝗜𝗕𝗠 & 𝗣𝗿𝗲𝗽𝗜𝗻𝘀𝘁𝗮 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀** → Data Science, Data Analysis, Machine Learning
+
+Along with certifications, I gained 𝗛𝗮𝗻𝗱𝘀-𝗢𝗻 𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝘆 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 through a 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗜𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽, where I combined 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 with 𝗗𝗲𝘀𝗶𝗴𝗻 𝗧𝗵𝗶𝗻𝗸𝗶𝗻𝗴 to deliver 𝗜𝗺𝗽𝗮𝗰𝘁𝗳𝘂𝗹, 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀.
+
+🌟 I thrive at the 𝗶𝗻𝘁𝗲𝗿𝘀𝗲𝗰𝘁𝗶𝗼𝗻 𝗼𝗳 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆, 𝗗𝗲𝘀𝗶𝗴𝗻, 𝗮𝗻𝗱 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻. My mission is to continuously 𝗹𝗲𝗮𝗿𝗻, 𝗮𝗱𝗮𝗽𝘁, 𝗮𝗻𝗱 𝗲𝘅𝗽𝗹𝗼𝗿𝗲 𝗲𝗺𝗲𝗿𝗴𝗶𝗻𝗴 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀, contributing to 𝗳𝘂𝘁𝘂𝗿𝗲-𝗿𝗲𝗮𝗱𝘆, 𝗵𝗶𝗴𝗵-𝗶𝗺𝗽𝗮𝗰𝘁 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 that shape tomorrow’s digital world.
+
+📌 𝗢𝗽𝗲𝗻 𝘁𝗼 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻, 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀.  
+Let’s connect and build something 𝗲𝘅𝘁𝗿𝗮𝗼𝗿𝗱𝗶𝗻𝗮𝗿𝘆 together!
 
 ---
 
-## ⚡ Skills & Arsenal
+## ⚡ Core Skillset
 
 <details open>
-  <summary><b>🛠️ Programming & Development</b></summary>
+  <summary><b>🛠️ Programming & Analytics</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</details>
-
-<details open>
-  <summary><b>🤖 Data Science & AI</b></summary>
-  <br/>
   <img src="https://img.shields.io/badge/Machine%20Learning-00F0FF?style=for-the-badge&logoColor=black&color=000000"/> 
-  <img src="https://img.shields.io/badge/Data%20Science-7B00FF?style=for-the-badge&logoColor=white&color=000000"/> 
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-7B00FF?style=for-the-badge&logoColor=white&color=000000"/> 
 </details>
 
 <details open>
-  <summary><b>🎨 Design & Creativity</b></summary>
+  <summary><b>📊 Data Visualization & BI Tools</b></summary>
   <br/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutterflow-000000?style=for-the-badge&logo=flutter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</details>
+
+<details open>
+  <summary><b>💻 Development & Design</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/UI/UX%20Design-00F0FF?style=for-the-badge&logoColor=white&color=000000"/>
+  <img src="https://img.shields.io/badge/Flutterflow-000000?style=for-the-badge&logo=flutter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</details>
+
+<details open>
+  <summary><b>⚙️ Automation & Workflow Tools</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=openapi%20initiative&logoColor=white"/>
+</details>
+
+<details open>
+  <summary><b>🎨 Creative Tools</b></summary>
+  <br/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </details>
 
 ---
@@ -74,7 +92,7 @@ I'm a passionate student diving deep into the world of **Artificial Intelligence
     <tr>
       <td width="33%" valign="top">
         <h3 align="center">🔔 SmartRemind</h3>
-        <p align="center">An intelligent SMS & Email alert system designed to keep users seamlessly notified on-the-go. Built with clean UI and responsive triggers.</p>
+        <p align="center">An SMS and email alert system that sends medicine reminders—a practical blend of software engineering and social good.</p>
         <p align="center"><code>Python</code> <code>APIs</code> <code>Automation</code></p>
       </td>
       <td width="33%" valign="top">
