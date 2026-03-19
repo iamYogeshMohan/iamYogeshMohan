@@ -114,14 +114,32 @@ Let’s connect and build something 𝗲𝘅𝘁𝗿𝗮𝗼𝗿𝗱𝗶𝗻𝗮
 ## 📈 GitHub Analytics
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamYogeshMohan&label=Profile%20Views&color=00f0ff&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamYogeshMohan&show_icons=true&theme=synthwave&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=9f9f9f&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamYogeshMohan&theme=synthwave&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideLabels=9f9f9f&dates=9f9f9f" alt="GitHub Streak" width="48%" />
+<br/>
 
-<br/><br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamYogeshMohan&theme=synthwave&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamYogeshMohan&layout=compact&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=9f9f9f&bg_color=0D1117" alt="Top Languages" width="45%" />
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamYogeshMohan&show_icons=true&theme=synthwave&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=9f9f9f&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamYogeshMohan&theme=synthwave&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=00F0FF&sideLabels=9f9f9f&dates=9f9f9f" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamYogeshMohan&bg_color=0D1117&color=00f0ff&line=7b00ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamYogeshMohan&layout=compact&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=9f9f9f&bg_color=0D1117" alt="Top Languages" width="45%" />
 </div>
 
 <br/>
