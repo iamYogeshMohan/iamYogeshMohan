@@ -1,3 +1,5 @@
+<img src="https://dpanimationmaker.com/gifs/snow/falling-snowflakes.gif" width="100%" height="80" />
+
 <div align="center">
 
 <!-- Banner / Hero Section -->
