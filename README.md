@@ -31,7 +31,9 @@ I’m a 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗧𝗲𝗰𝗵 𝗘𝗻𝘁�
 I have completed 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀 from:
 
 🔹 **𝗚𝗹𝗼𝗯𝗮𝗹 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻** → Microsoft 𝗔𝘇𝘂𝗿𝗲 𝗔𝗹 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀
+
 🔹 **𝗖𝗼𝘂𝗿𝘀𝗲𝗿𝗮 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀** → Microsoft Power BI Data Analyst & Google Data Analytics
+
 🔹 **𝗜𝗕𝗠 & 𝗣𝗿𝗲𝗽𝗜𝗻𝘀𝘁𝗮 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀** → Data Science, Data Analysis, Machine Learning
 
 Along with certifications, I gained 𝗛𝗮𝗻𝗱𝘀-𝗢𝗻 𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝘆 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 through a 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 & 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗜𝗻𝘁𝗲𝗿𝗻𝘀𝗵𝗶𝗽, where I combined 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 with 𝗗𝗲𝘀𝗶𝗴𝗻 𝗧𝗵𝗶𝗻𝗸𝗶𝗻𝗴 to deliver 𝗜𝗺𝗽𝗮𝗰𝘁𝗳𝘂𝗹, 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀.
