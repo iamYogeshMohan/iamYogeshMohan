@@ -13,6 +13,7 @@
 
 <br/>
 
+<h3 align="center">🤝 Connect With Me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/iamyogeshmohan?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/iamYogeshMohan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
